@@ -12,7 +12,7 @@
 
 # 游戏操作说明：
 
-![](D:\study\programForSW\操作.jpg)
+![](https://github.com/Isanaz/LightOfSound_ForSoftwareArch/blob/master/%E6%93%8D%E4%BD%9C.jpg)
 
 
 
